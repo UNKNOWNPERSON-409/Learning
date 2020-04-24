@@ -1,4 +1,4 @@
-# So, You knew that the following will instruct to you learn to clone git
+# So, You know that the following will instruct to you learn to clone git
 
 # 1) Open your terminal, browser etc.
 # 2) Open Browser and copy URL (Uniform Resource Locator) from Clone or Download box at right corner.
